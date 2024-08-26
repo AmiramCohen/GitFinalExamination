@@ -1,2 +1,0 @@
-# GitFinalExamination
-Final Examination
